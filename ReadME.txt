@@ -1,0 +1,1 @@
+Please Use Proteus 7.7 to see the design 
